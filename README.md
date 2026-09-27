@@ -14,7 +14,8 @@
 
 # Check out these other repos!
 [![Duet LRC Repo](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2FDuet-LRC-Lyric-File&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/Duet-LRC-Lyric-File)
+[![DLRC Library](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2Fdlrc-library&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/dlrc-library)
 [![Samsung Labs](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2FAllSamsungLabs&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/AllSamsungLabs) 
 [![Python Slots](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2FPythonSlots&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/PythonSlots) 
 [![Batch Multitool](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2FBatch-Multitool&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/Batch-Multitool) 
-[![WWOF](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2Fweb-wheel-of-fortune&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/web-wheel-of-fortune)
+[![WWOF](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2Fweb-wheel-of-fortune&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/web-wheel-of-fortune) 
