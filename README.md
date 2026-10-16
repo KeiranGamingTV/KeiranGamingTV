@@ -12,7 +12,7 @@
 [![GasTrack](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2FGasTrack&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/GasTrack) 
 [![DeviceInfo](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2FDeviceInfoApp&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/DeviceInfoApp)
 
-# Check out these other repos!
+# Check out my other repos!
 [![Duet LRC Repo](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2FDuet-LRC-Lyric-File&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/Duet-LRC-Lyric-File)
 [![DLRC Library](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2Fdlrc-library&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/dlrc-library)
 [![Samsung Labs](https://github-stats-extended.vercel.app/api/pin?username=KeiranGamingTV&repo=KeiranGamingTV%2FAllSamsungLabs&description_lines_count=3&theme=dark)](https://github.com/KeiranGamingTV/AllSamsungLabs) 
